@@ -1,0 +1,6 @@
+# install packages 
+python3 -m pip install [package_name]
+
+#run python in terminal 
+python3 [relative_file_path]
+
